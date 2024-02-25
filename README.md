@@ -4,8 +4,8 @@ Delish Kitchen is a cutting-edge cloud kitchen website designed to provide a del
 
 - This is a group project of Engineering Sem 4 
 - Members :
-- **1.Avdhut Tarwal (myself) **
-- **2.Roshan Thankar. **
+- **1.Avdhut Tarwal (myself)**
+- **2.Roshan Thankar.**
 
 ## features
 
