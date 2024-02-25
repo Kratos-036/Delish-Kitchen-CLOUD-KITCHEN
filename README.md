@@ -81,10 +81,7 @@ subtle animations enhance the user experience, providing a visually captivating 
 
 ## contributing
 
-contributions are welcome! feel free to open issues or submit pull requests following the [contributing guidelines](contributing.md).
+contributions are welcome! feel free to open issues or submit pull requests 
 
-## license
-
-this project is licensed under the [mit license](license), allowing you to use, modify, and distribute the code freely.
 
 enjoy exploring and ordering from delish kitchen! 🌐🍽️
