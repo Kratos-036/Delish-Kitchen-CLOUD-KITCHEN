@@ -2,6 +2,11 @@
 
 Delish Kitchen is a cutting-edge cloud kitchen website designed to provide a delightful and seamless food ordering experience. with a diverse menu, user-friendly interface, and captivating animations, delish kitchen aims to redefine online culinary exploration. the responsive design ensures accessibility across various devices, and the engaging animations add a touch of visual appeal.
 
+This is a group project of Engineering Sem 4 
+Members :
+1.Avdhut Tarwal (myself)
+2.Roshan Thankar.
+
 ## features
 
 - **diverse menu options:** explore a wide range of culinary delights catering to different tastes. 🍔
