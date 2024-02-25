@@ -40,9 +40,7 @@ delish kitchen leverages:
 
 - **javascript** for interactivity and dynamic features.
 
-- **[library/framework name]:** description of libraries or frameworks.
 
-- **[any other technology used]:** additional technologies enhancing the project.
 
 ## project structure
 
